@@ -9,8 +9,8 @@
 ![](https://img.shields.io/badge/Linux-555555?style=flat-square&logo=Linux)
 
 ## Stats
-![Repo Status](https://github-readme-stats.vercel.app/api?username=refantome&show_icons=true&count_private=true)
+![Repo Status](https://github-readme-stats.vercel.app/api?username=nyable&show_icons=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=refantome&hide=html&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nyable&hide=html&layout=compact)
 
-![Get Count](https://count.getloli.com/get/@refantome)
+![Get Count](https://count.getloli.com/get/@nyable)
