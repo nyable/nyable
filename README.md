@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## Platform & Tools
 ![](https://img.shields.io/badge/Java-003545?style=flat-square&logo=Java)
-![](https://img.shields.io/badge/Vue.js-003545?style=flat-square&logo=Vue.js)
+![](https://img.shields.io/badge/JavaScript-003545?style=flat-square&logo=JavaScript)
 
 ![](https://img.shields.io/badge/Windows-10-red?style=flat-square&logo=windows&logoColor=ffffff)
 ![](https://img.shields.io/badge/IDE-IntelliJ%20IDEA-red?style=flat-square&logo=IntelliJ%20IDEA)
