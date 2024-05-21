@@ -17,6 +17,9 @@
 ![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-red?style=flat-square&logo=Visual%20Studio%20Code)
 
 
+<p align="center">
+  <img width="75%" src="images/metrics.plugin.isocalendar.fullyear.svg" alt="Repo Status">
+</p>
 
 
 
