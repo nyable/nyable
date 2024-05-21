@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p style="display: flex;align-items: center;">
+<p align="left">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=nyable&show_icons=true&count_private=true" alt="Repo Status">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyable&hide=html&layout=compact" alt="Top Langs">
 </p>
@@ -20,7 +20,7 @@
 
 
 
-<p style="display: flex;align-items: center;">
+<p align="center">
   <img height="345" src="images/metrics.general.svg" alt="Top Langs">
   <img height="345" src="images/metrics.plugin.isocalendar.fullyear.svg" alt="Repo Status">
 </p>
