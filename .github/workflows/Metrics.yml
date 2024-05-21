@@ -17,12 +17,12 @@ jobs:
       - name: General
         uses: nyable/metrics@master
         with:
+          filename: images/metrics.general.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          filename: metrics.general.svg
       - name: Full-year calendar
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.isocalendar.fullyear.svg
+          filename: images/metrics.plugin.isocalendar.fullyear.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_isocalendar: yes
@@ -30,7 +30,7 @@ jobs:
       - name: Recently starred
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.stars.svg
+          filename: images/metrics.plugin.stars.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_stars: yes
