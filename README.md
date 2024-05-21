@@ -21,8 +21,8 @@
 
 
 <p style="display: flex;align-items: center;">
-  <img height="345" src="images/metrics.general.svg" alt="Top Langs">
-  <img height="345" src="images/metrics.plugin.isocalendar.fullyear.svg" alt="Repo Status">
+  <img width="45%" src="images/metrics.general.svg" alt="Top Langs">
+  <img width="45%" src="images/metrics.plugin.isocalendar.fullyear.svg" alt="Repo Status">
 </p>
 
 <img width="80" src="https://count.getloli.com/get/@nyable" alt="Get Counts">
