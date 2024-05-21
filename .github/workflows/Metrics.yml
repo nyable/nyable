@@ -18,10 +18,20 @@ jobs:
         uses: nyable/metrics@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          filename: general.svg
-          plugin_languages: yes
-          plugin_languages_colors: rainbow
-          plugin_languages_limit: 8
+          filename: metrics.general.svg
+      - name: Full-year calendar
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.isocalendar.fullyear.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+      - name: Recently starred
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.stars.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
           plugin_stars: yes
           plugin_stars_limit: 3
-
