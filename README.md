@@ -18,14 +18,13 @@
 
 
 <p align="center">
-  <img width="75%" src="images/metrics.plugin.isocalendar.fullyear.svg" alt="Repo Status">
+  <img width="45%" src="images/metrics.plugin.isocalendar.fullyear.svg" alt="Repo Status">
+  <img width="45%" src="images/metrics.general.svg" alt="Top Langs">
 </p>
 
 
 
-<p align="center">
-  <img width="75%" src="images/metrics.general.svg" alt="Top Langs">
-</p>
+
 
 <img width="80" src="https://count.getloli.com/get/@nyable" alt="Get Counts">
 
