@@ -20,9 +20,8 @@
 
 
 
-<p style="display: flex;align-items: center;">
-  <img width="45%" src="images/metrics.general.svg" alt="Top Langs">
-  <img width="45%" src="images/metrics.plugin.isocalendar.fullyear.svg" alt="Repo Status">
+<p align="center">
+  <img height="320" src="images/metrics.general.svg" alt="Top Langs">
 </p>
 
 <img width="80" src="https://count.getloli.com/get/@nyable" alt="Get Counts">
