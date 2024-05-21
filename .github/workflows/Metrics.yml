@@ -15,7 +15,7 @@ jobs:
       contents: write
     steps:
       - name: General
-        uses: nyable/metrics
+        uses: nyable/metrics@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: general.svg
