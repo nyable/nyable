@@ -20,7 +20,7 @@
 
 
 
-<p align="left">
+<p style="display: flex;align-items: center;">
   <img height="345" src="images/metrics.general.svg" alt="Top Langs">
   <img height="345" src="images/metrics.plugin.isocalendar.fullyear.svg" alt="Repo Status">
 </p>
