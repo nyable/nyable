@@ -27,5 +27,5 @@
 
 
 
-<img width="80" src="https://count.getloli.com/get/@nyable" alt="Get Counts">
+<img width="320" src="https://count.getloli.com/get/@nyable" alt="Get Counts">
 
