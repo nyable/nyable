@@ -20,7 +20,7 @@ jobs:
           filename: images/metrics.general.svg
           token: ${{ secrets.METRICS_TOKEN }}
       - name: Full-year calendar
-        uses: lowlighter/metrics@latest
+        uses: nyable/metrics@latest
         with:
           filename: images/metrics.plugin.isocalendar.fullyear.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -28,7 +28,7 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
       - name: Recently starred
-        uses: lowlighter/metrics@latest
+        uses: nyable/metrics@latest
         with:
           filename: images/metrics.plugin.stars.svg
           token: ${{ secrets.METRICS_TOKEN }}
