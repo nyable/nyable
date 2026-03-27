@@ -19,6 +19,7 @@ jobs:
         with:
           filename: images/metrics.general.svg
           token: ${{ secrets.METRICS_TOKEN }}
+        timeout-minutes: 5
       - name: Full-year calendar
         uses: nyable/metrics@master
         with:
@@ -27,6 +28,7 @@ jobs:
           base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+        timeout-minutes: 5
       - name: Recently starred
         uses: nyable/metrics@master
         with:
@@ -35,3 +37,4 @@ jobs:
           base: ""
           plugin_stars: yes
           plugin_stars_limit: 3
+        timeout-minutes: 5
