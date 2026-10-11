@@ -10,31 +10,7 @@
 
 ---
 
-# 🛠 Platform & Tools
 
-<p>
-  <img src="https://img.shields.io/badge/Java-003545?style=flat-square&logo=openjdk" />
-  <img src="https://img.shields.io/badge/JavaScript-003545?style=flat-square&logo=JavaScript" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Windows-11-red?style=flat-square&logo=windows&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/Ubuntu-22.04-red?style=flat-square&logo=Ubuntu" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/IDE-IntelliJ%20IDEA-red?style=flat-square&logo=IntelliJ%20IDEA" />
-  <img src="https://img.shields.io/badge/IDE-Visual%20Studio%20Code-red?style=flat-square&logo=Visual%20Studio%20Code" />
-</p>
-
----
-
-# 📈 Activity Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nyable&theme=tokyo-night)
-
-
----
 
 <!-- # 📊 Metrics 
 
